@@ -14,3 +14,5 @@ MENTOR: NEELA SANTOSH
 
 This Java application demonstrates how to consume a public REST API and display the received data in a structured format. The program uses Java’s built-in HttpClient to send an HTTP GET request to a public weather service API, which returns real-time weather information in JSON format. The response obtained from the API is processed within the application, and essential details such as city name, temperature, humidity, and weather condition are extracted using basic string operations without relying on any external JSON parsing libraries. The extracted information is then displayed on the console in a clear and user-friendly structured manner. This application helps in understanding the fundamentals of RESTful web services, HTTP communication in Java, handling API responses, and basic data extraction techniques, which are widely used in modern software systems for integrating third-party services like weather updates, travel platforms, and information dashboards.
 
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/48adc210-4e08-44f2-8499-0e4f90267984" />
+
